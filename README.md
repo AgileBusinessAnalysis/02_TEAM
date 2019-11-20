@@ -2,11 +2,13 @@
 
 Marc Beutler | Anton Lorvi | Lorenzo Niggli | Luca Mueller
 
+
+
 | Sprints Second Header |
-| ------------- | ------------- |
+| ------------- |
 | [Sprint 1](https://github.com/AgileBusinessAnalysis/02_TEAM/tree/master/Sprint%201)  
 [Sprint 2](https://github.com/AgileBusinessAnalysis/02_TEAM/tree/master/Sprint%202)  
-[Sprint 3]()   | Content Cell  |
+[Sprint 3]() |
 
 
 [Kanban Board](https://trello.com/b/2jsNV2kR/02team) | 
