@@ -1,4 +1,4 @@
-# 02_TEAM
+# 02_TEAM - Quick Links
 
 ### TEAM
 Marc Beutler | Anton Lorvi | Lorenzo Niggli | Luca Mueller
